@@ -1,11 +1,11 @@
 # Site settings
-title: Freelancer
-email: your-email@domain.com
-url: https://github.com/jeromelachaud/freelancer-theme
+title: Angel A. Flores
+email: aflores192006@gmail.com
+url: https://angelf196.github.io/
 description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
 keywords: "your keywords, separated by commas"
-skills: "Web Developer - Graphic Artist - User Experience Designer"
-meta_author: LastName FirstName
+skills: "Game Designer, Producer, Programmer"
+meta_author: Flores Angel
 
 # Google webmaster tools
 google_verify:
@@ -32,23 +32,17 @@ color:
 
 # Footer settings
 footer:
-  copyright: Dr. Henry Jekyll
+  copyright: Angel Flores
   location: Location
-  social: Around the Web
+  social: Links
   credits: Credits
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
-  - title: twitter
-    url: http://twitter.com/jekyllrb
-  - title: facebook
-    url:
-  - title: stack-overflow
-    url: http://stackoverflow.com/questions/tagged/jekyll
-  - title: bitbucket
-    url: http://bitbucket.org/jekyll
-  - title: github
-    url: http://github.com/jekyll
+  - title: LinkedIn
+    url: https://www.linkedin.com/in/angel-flores-1a3507361/
+  - title: GitHub
+    url: https://github.com/AngelF196
 
 # Postal address (add as many lines as necessary)
 address:
