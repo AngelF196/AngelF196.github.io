@@ -39,9 +39,9 @@ footer:
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
-  - title: LinkedIn
+  - title: linkedin
     url: https://www.linkedin.com/in/angel-flores-1a3507361/
-  - title: GitHub
+  - title: github
     url: https://github.com/AngelF196
 
 # Postal address (add as many lines as necessary)
