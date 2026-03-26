@@ -40,4 +40,4 @@ $(function selectSlide(index, carouselId) {
   const carouselElement = document.getElementById(carouselId);
   const carousel = new bootstrap.Carousel(carouselElement);
   carousel.to(index);
-}
+});
