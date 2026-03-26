@@ -35,3 +35,9 @@ $('body').scrollspy({
 $('.navbar-collapse ul li a').click(function() {
     $('.navbar-toggle:visible').click();
 });
+
+$(function selectSlide(index, carouselId) {
+  const carouselElement = document.getElementById(carouselId);
+  const carousel = new bootstrap.Carousel(carouselElement);
+  carousel.to(index);
+}
