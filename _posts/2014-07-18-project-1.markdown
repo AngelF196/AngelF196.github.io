@@ -2,7 +2,15 @@
 layout: default
 modal-id: 1
 date: 2014-07-18
-img: cabin.png
+images:   
+  - type: image
+    src: test1.png
+  - type: image
+    src: test2.png
+  - type: video
+    src: test3.mp4
+  - type: image
+    src: test4.png
 alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
