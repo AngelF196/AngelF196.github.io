@@ -497,3 +497,39 @@ footer .footer-below {
     transform: translateZ(0);
     -webkit-transform: translateZ(0);
 }
+
+/* Container keeps everything same size */
+.media-preview {
+    position: relative;
+    width: 100%;
+    aspect-ratio: 16 / 9;
+    overflow: hidden;
+    border-radius: 10px;
+}
+
+/* Image + video fill container */
+.media-preview img,
+.media-preview video {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    top: 0;
+    left: 0;
+}
+
+/* Hide video initially */
+.preview-video {
+    opacity: 0;
+    transition: opacity 0.3s ease;
+}
+
+/* Show video on hover */
+.media-preview:hover .preview-video {
+    opacity: 1;
+}
+
+/* Optional: dim image slightly on hover */
+.media-preview:hover .preview-image {
+    opacity: 0.3;
+}
