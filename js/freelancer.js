@@ -41,3 +41,17 @@ $(function selectSlide(index, carouselId) {
   const carousel = new bootstrap.Carousel(carouselElement);
   carousel.to(index);
 });
+
+$('.carousel').on('slide.bs.carousel', function () {
+  $(this).find('video').each(function () {
+    this.pause();
+    this.currentTime = 0;
+  });
+});
+
+$('.modal').on('hidden.bs.modal', function () {
+  $(this).find('video').each(function () {
+    this.pause();
+    this.currentTime = 0;
+  });
+});
