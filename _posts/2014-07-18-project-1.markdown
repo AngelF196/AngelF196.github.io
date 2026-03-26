@@ -3,8 +3,6 @@ layout: default
 modal-id: 1
 date: 2014-07-18
 images:   
-  - img: cover1.png
-    alt: "fuck"
   - type: image
     src: test1.png
   - type: image
