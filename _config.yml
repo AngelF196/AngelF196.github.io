@@ -35,7 +35,7 @@ footer:
   copyright: Angel Flores
   location: Location
   social: Links
-#  credits: Credits
+  credits: Credits
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
@@ -45,6 +45,8 @@ social:
     url: https://github.com/AngelF196
   - title: instagram
     url: https://www.instagram.com/angel.f_196/
+   - title: itch
+    url: https://prodigioussp.itch.io/
     
 # Postal address (add as many lines as necessary)
 address:
@@ -52,7 +54,7 @@ address:
   - line: LA/Orange County
 
 # Credits content
-# credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
+credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
 
 # Build settings
 markdown: kramdown
