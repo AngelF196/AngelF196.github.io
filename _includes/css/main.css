@@ -561,4 +561,6 @@ footer .footer-below {
 #contact .floating-label-form-group textarea {
   background-color: transparent !important; /* transparent so section background shows */
   color: #fff !important; /* user-typed text */
+  border: none !important; /* remove border */
+  box-shadow: none !important; /* remove any default shadows */
 }
