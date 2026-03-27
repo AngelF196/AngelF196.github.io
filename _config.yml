@@ -2,8 +2,8 @@
 title: Angel A. Flores
 email: aflores192006@gmail.com
 url: https://angelf196.github.io/
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
-keywords: "your keywords, separated by commas"
+description: "Portfolio website for game developer Angel Flores. Read about my previous and ongoing work. Reach out for any inquiries."
+keywords: "Angel Flores, Prodigious SP, Game, Game Developer, Game Development, Software Engineering, Programming, Producer, Designer, Game Design"
 skills: "Game Designer, Producer, Programmer"
 meta_author: Flores Angel
 
@@ -35,7 +35,7 @@ footer:
   copyright: Angel Flores
   location: Location
   social: Links
-  credits: Credits
+  credits: To you
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
@@ -43,14 +43,18 @@ social:
     url: https://www.linkedin.com/in/angel-flores-1a3507361/
   - title: github
     url: https://github.com/AngelF196
+  - title: instagram
+    url: https://www.instagram.com/angel.f_196/
+  - title: itch
+    url: https://prodigioussp.itch.io/
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: 3481 Melrose Place
-  - line: Beverly Hills, CA 90210
+  - line: Southern California
+  - line: LA/Orange County
 
 # Credits content
-credits: 'Thank you for browsing this site. Feel free to contact me for casual and professional purposes. I'll do my best to respond quickly.'
+credits: "Thank you for browsing this site. Feel free to contact me for casual and professional purposes. I'll do my best to respond quickly."
 
 # Build settings
 markdown: kramdown
