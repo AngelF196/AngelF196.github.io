@@ -200,6 +200,27 @@ section.success {
     background: #{{ site.color.primary }};
 }
 
+/* Make contact section match About */
+#contact.success {
+  background-color: #473198; /* your primary color */
+  color: white;
+}
+
+#contact.success .form-control {
+  background-color: white;
+  color: #2c3e50;
+  border: none;
+}
+
+#contact.success .form-control:focus {
+  box-shadow: none;
+  border: 2px solid #2c3e50;
+}
+
+#contact.success label {
+  color: white;
+}
+
 @media(max-width:767px) {
     section {
         padding: 75px 0;
