@@ -2,8 +2,8 @@
 title: Angel A. Flores
 email: aflores192006@gmail.com
 url: https://angelf196.github.io/
-description: "Portfolio website for game developer Angel Flores. Read about my previous and ongoing work. Reach out for any inquiries."
-keywords: "Angel Flores, Prodigious SP, Game, Game Developer, Game Development, Software Engineering, Programming, Producer, Designer, Game Design"
+description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
+keywords: "your keywords, separated by commas"
 skills: "Game Designer, Producer, Programmer"
 meta_author: Flores Angel
 
@@ -35,7 +35,7 @@ footer:
   copyright: Angel Flores
   location: Location
   social: Links
-  credits: Thanks
+  credits: Credits
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
@@ -43,16 +43,14 @@ social:
     url: https://www.linkedin.com/in/angel-flores-1a3507361/
   - title: github
     url: https://github.com/AngelF196
-  - title: instagram
-    url: https://www.instagram.com/angel.f_196/
-    
+
 # Postal address (add as many lines as necessary)
 address:
-  - line: Southern California
-  - line: LA/Orange County
+  - line: 3481 Melrose Place
+  - line: Beverly Hills, CA 90210
 
 # Credits content
-credits: 'Thank you for browsing this site. Feel free to contact me for casual and professional purposes. I'll do my best to respond quickly.'
+credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
 
 # Build settings
 markdown: kramdown
