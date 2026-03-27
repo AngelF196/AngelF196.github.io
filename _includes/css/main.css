@@ -539,6 +539,22 @@ footer .footer-below {
     left: 0;
 }
 
+/* Fix carousel controls blocking video */
+.carousel-control {
+  z-index: 1;
+}
+
+video {
+  position: relative;
+  z-index: 2;
+}
+
+.modal-body video {
+  width: 100%;
+  height: auto;
+  display: block;
+}
+
 /* Hide video initially */
 .preview-video {
     opacity: 0;
