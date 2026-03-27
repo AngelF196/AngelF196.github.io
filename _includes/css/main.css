@@ -556,22 +556,10 @@ footer .footer-below {
 }
 
 /* Contact me bar fixing */
-#contact input,
-#contact textarea {
-  background-color: transparent; /* or use a semi-transparent version of secondary */
-  color: #fff; /* text typed by the user */
-  border: 1px solid rgba(255,255,255,0.3); /* optional: light border */
-}
-
-#contact input::placeholder,
-#contact textarea::placeholder {
-  color: rgba(255, 255, 255, 0.7); /* placeholder text */
-}
-
-#contact input:focus,
-#contact textarea:focus {
-  border-color: #fff; /* highlight on focus */
-  box-shadow: none; /* remove default blue glow */
-  background-color: transparent;
-  color: #fff;
+/* Contact section input and textarea fields */
+#contact .floating-label-form-group input,
+#contact .floating-label-form-group textarea {
+  background-color: transparent !important; /* transparent so section background shows */
+  color: #fff !important; /* user-typed text */
+  border: 1px solid rgba(255,255,255,0.3) !important; /* subtle white border */
 }
