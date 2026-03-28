@@ -539,31 +539,37 @@ footer .footer-below {
     left: 0;
 }
 
-/* Make carousel controls appear completely to the sides of the modal */
+/* Make carousel full width inside modal */
+#carousel-{{ post.modal-id }} {
+  width: 100%;
+  position: relative;
+}
+
+/* Position arrows on the sides of the carousel */
 .carousel-control-left,
 .carousel-control-right {
   position: absolute;
   top: 50%;
-  width: 50px; /* adjust width if needed */
+  width: 50px;
   height: 50px;
   margin-top: -25px;
-  background: none; /* remove default overlay */
-  color: #fff; /* arrow color */
+  background: none; /* remove overlay */
+  color: #fff;
   z-index: 10;
-  opacity: 1; /* fully visible */
+  opacity: 1;
 }
 
-/* Left arrow on left side */
+/* Left arrow on left edge */
 .carousel-control-left {
-  left: -60px; /* move it outside media container */
+  left: 0; /* flush to left edge */
 }
 
-/* Right arrow on right side */
+/* Right arrow on right edge */
 .carousel-control-right {
-  right: -60px; /* move it outside media container */
+  right: 0; /* flush to right edge */
 }
 
-/* Increase arrow icon size if needed */
+/* Make arrow icons larger */
 .carousel-control-left span,
 .carousel-control-right span {
   font-size: 30px;
