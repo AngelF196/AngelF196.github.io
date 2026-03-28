@@ -19,32 +19,24 @@
 
             {% if post.images %}
             <!-- 🔥 CAROUSEL START -->
-            <div id="carousel-{{ post.modal-id }}" class="carousel slide" data-ride="carousel">
-              
+            <div id="carousel-{{ post.modal-id }}" class="carousel slide" data-ride="carousel" style="position: relative; width: 100%;">
               <div class="carousel-inner">
-            
                 {% for media in post.images %}
                 <div class="item {% if forloop.first %}active{% endif %}">
-                  
-                  <div style="width:100%; height:400px; display:flex; align-items:center; justify-content:center; background:#000;">
-                    
+                  <div class="media-wrapper" style="display:flex; align-items:center; justify-content:center; background:#000; height:400px; width:100%;">
                     {% if media.type == "image" %}
                     <img src="img/portfolio/{{ media.src }}" style="max-height:100%; max-width:100%; object-fit:contain;">
-                    
                     {% elsif media.type == "video" %}
                     <video controls style="max-height:100%; max-width:100%;">
                       <source src="img/portfolio/{{ media.src }}" type="video/mp4">
                     </video>
                     {% endif %}
-            
                   </div>
-            
                 </div>
                 {% endfor %}
-            
               </div>
             
-              <!-- Controls -->
+              <!-- Controls positioned on the sides -->
               <a class="carousel-control-left" href="#carousel-{{ post.modal-id }}" data-slide="prev">
                 <span class="glyphicon glyphicon-chevron-left"></span>
               </a>
