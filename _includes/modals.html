@@ -19,7 +19,7 @@
 
             {% if post.images %}
             <!-- 🔥 CAROUSEL START -->
-            <div id="carousel-{{ post.modal-id }}" class="carousel slide" data-ride="carousel" style="position: relative; width: 100%;">
+            <div id="carousel-{{ post.modal-id }}" class="carousel slide" data-ride="carousel" data-interval="false" style="position: relative; width: 100%;">
               <div class="carousel-inner">
                 {% for media in post.images %}
                 <div class="item {% if forloop.first %}active{% endif %}">
