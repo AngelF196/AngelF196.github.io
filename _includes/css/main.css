@@ -539,6 +539,36 @@ footer .footer-below {
     left: 0;
 }
 
+/* Make carousel controls appear completely to the sides of the modal */
+.carousel-control-left,
+.carousel-control-right {
+  position: absolute;
+  top: 50%;
+  width: 50px; /* adjust width if needed */
+  height: 50px;
+  margin-top: -25px;
+  background: none; /* remove default overlay */
+  color: #fff; /* arrow color */
+  z-index: 10;
+  opacity: 1; /* fully visible */
+}
+
+/* Left arrow on left side */
+.carousel-control-left {
+  left: -60px; /* move it outside media container */
+}
+
+/* Right arrow on right side */
+.carousel-control-right {
+  right: -60px; /* move it outside media container */
+}
+
+/* Increase arrow icon size if needed */
+.carousel-control-left span,
+.carousel-control-right span {
+  font-size: 30px;
+}
+
 /* Fix carousel controls blocking video */
 .carousel-control {
   z-index: 1;
