@@ -1,11 +1,19 @@
 ---
+title: College Cooking(ware)
 layout: default
 modal-id: 3
 date: 2014-07-16
-img: circus.png
+images:   
+  - type: image
+    src: CC1.png
+  - type: image
+    src: CC2.png
+  - type: image
+    src: CC3.png
+img: CC_cover.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
+project-date: March 2026
+client: Completed
+category: Design, Programming
 description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
 ---
