@@ -8,7 +8,7 @@ images:
   - type: image
     src: JSM2.png
   - type: image
-    src: JSM3.mp4
+    src: JSM3.png
   - type: image
     src: JSM4.png
 img: JSM_cover.png
