@@ -12,8 +12,8 @@ images:
     src: CC3.png
 img: CC_cover.png
 alt: image-alt
-project-date: March 2026
+project-date: March 2025
 client: Completed
-category: Design, Programming
+category: Design, Production, Art
 description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
 ---
