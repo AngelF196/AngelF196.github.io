@@ -1,5 +1,5 @@
 ---
-title: Dim Dum: Cereal Splat
+title: Dim Dum Cereal Splat
 layout: default
 modal-id: 4
 date: 2014-07-15
