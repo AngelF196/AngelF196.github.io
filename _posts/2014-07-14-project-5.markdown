@@ -1,11 +1,21 @@
 ---
+title: Speedy Spirits
 layout: default
 modal-id: 5
 date: 2014-07-14
-img: safe.png
+images:   
+  - type: image
+    src: SS1.png
+  - type: image
+    src: SS2.png
+  - type: image
+    src: SS3.png
+  - type: image
+    src: SS4.png
+img: SS_cover.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
+project-date: Feb 2026
+client: Completed
+category: Design, Programming
 description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
 ---
