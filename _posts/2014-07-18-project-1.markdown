@@ -3,18 +3,18 @@ layout: default
 modal-id: 1
 date: 2014-07-18
 images:   
-  - type: image
-    src: test1.png
-  - type: image
-    src: test2.png
   - type: video
-    src: test3.mp4
+    src: JSM1.mp4
   - type: image
-    src: test4.png
-img: cover1.png
+    src: JSM2.png
+  - type: image
+    src: JSM3.mp4
+  - type: image
+    src: JSM4.png
+img: JSM_cover.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
+project-date: 2024 - Present (Ongoing)
+client: AntiKat Games
+category: Game Development
 description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
 ---
