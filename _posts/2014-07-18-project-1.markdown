@@ -17,5 +17,11 @@ alt: image-alt
 project-date: 2024 - Present (Ongoing)
 client: AntiKat Games
 category: Design, Writing, Marketing
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+description: Fight to escape debt in a world of corporate intrigue where information is your currency. Sell sensitive information & navigate office politics in this Office-noir RPG set in 1990s Japan.
+Contributions (Unity Game Engine):
+Working with proprietary custom tooling to add content such as NPC quests and dialogue, as well as other miscellaneous side content
+Managing and creating content for successful social media platforms to promote the game’s release
+A prominent contributor to narrative design work and script editing
+[Play the game](https://store.steampowered.com/app/3098910/Japanese_Salaryman/)
+Nam.
 ---
