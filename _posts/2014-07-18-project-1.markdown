@@ -1,26 +1,8 @@
----
-title: Japanese Salaryman
-layout: default
-modal-id: 1
-date: 2014-07-18
-images:   
-  - type: video
-    src: JSM1.mp4
-  - type: image
-    src: JSM2.png
-  - type: image
-    src: JSM3.png
-  - type: image
-    src: JSM4.png
-img: JSM_cover.png
-alt: image-alt
-project-date: 2024 - Present (Ongoing)
-client: AntiKat Games
-category: Design, Writing, Marketing
 description: |
-Fight to escape debt in a world of corporate intrigue where information is your currency. Sell sensitive information & navigate office politics in this Office-noir RPG set in 1990s Japan.
-Contributions (Unity Game Engine) Working with proprietary custom tooling to add content such as NPC quests and dialogue, as well as other miscellaneous side content Managing and creating content for successful social media platforms to promote the game’s release
-A prominent contributor to narrative design work and script editing
-[Play the game](https://store.steampowered.com/app/3098910/Japanese_Salaryman/)
-Nam.
----
+  Fight to escape debt in a world of corporate intrigue where information is your currency. 
+  Sell sensitive information & navigate office politics in this Office-noir RPG set in 1990s Japan.
+
+  Contributions (Unity Game Engine):
+  - Working with proprietary custom tooling to add NPC quests and dialogue
+  - Managing and creating content for social media
+  - Narrative design and script editing
