@@ -22,9 +22,9 @@ description: |
   Sell sensitive information & navigate office politics in this Office-noir RPG set in 1990s Japan.
 
   #### Contributions (Unity Game Engine):
-  Working with proprietary custom tooling to add content such as NPC quests and dialogue, as well as      other miscellaneous side content
-  Managing and creating content for successful social media platforms to promote the game’s release
-  A prominent contributor to narrative design work and script editing
+  • Working with proprietary custom tooling to add content such as NPC quests and dialogue, as well as      other miscellaneous side content  
+  • Managing and creating content for successful social media platforms to promote the game’s release  
+  • A prominent contributor to narrative design work and script editing  
 
   [Play the game](https://store.steampowered.com/app/3098910/Japanese_Salaryman/)
 ---
