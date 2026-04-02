@@ -27,5 +27,4 @@ description: |
   - Narrative design and script editing
 
 #####  [Play the game](https://store.steampowered.com/app/3098910/Japanese_Salaryman/)
-  
 ---
