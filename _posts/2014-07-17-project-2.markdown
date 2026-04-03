@@ -15,5 +15,12 @@ alt: image-alt
 project-date: 2025 - Present
 client: Ongoing
 category: Project, Design, and Programming Lead
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+description: |
+  Jump through hoops (sometimes literally) to deliver packages in a cartoon world full of nonsensical characters in this 2D, momentum-based          platformer.
+
+  Contributions (Unity Game Engine):  
+  • Utilizing agile workflow to manage team members across all departments  
+  • Designed and engineered the core gameplay/movement system  
+  • Designed all environments and UI in the game, from mechanics to aesthetics  
+  • Implementing various features such as animations and UI, as well as game content using assets and tools made by team members
 ---
