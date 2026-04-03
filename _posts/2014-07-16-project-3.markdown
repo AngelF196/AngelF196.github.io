@@ -19,7 +19,7 @@ description: |
   Cook as best you can in this not-at-all realistic depiction of a struggling college student just trying to make a decent meal for once.
 
   Contributions (Godot Game Engine):  
-  • Managed team during sprints to submit progress builds by weekly check-in deadlines  
+  • Managed team during sprints to submit progress builds by weekly deadlines  
   • Designed all minigames and UI  
   • Created final art assets for various minigames
 
