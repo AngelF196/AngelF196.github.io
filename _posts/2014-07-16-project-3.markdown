@@ -15,5 +15,12 @@ alt: image-alt
 project-date: March 2025
 client: Completed
 category: Design, Production, Art
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+description: |
+  Cook as best you can in this not-at-all realistic depiction of a struggling college student just trying to make a decent meal for once.
+
+  Contributions (Godot Game Engine):
+  • Managed team during sprints to submit progress builds by weekly check-in deadlines
+  • Designed all minigames and UI
+  • Created final art assets for various minigames
+
 ---
