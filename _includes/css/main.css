@@ -303,6 +303,7 @@ section.success {
   @media (min-width: 960px) {
     .portfolio-flex-grid .portfolio-flex-row .portfolio-flex-item {
       flex: 1 0 32%;
+      float: none;
       max-width: 32%;
     }
   }
