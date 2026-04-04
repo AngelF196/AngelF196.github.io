@@ -12,7 +12,8 @@ img: CS_cover.png
 alt: image-alt
 project-date: March 2026
 client: Completed
-category: |
+category: Programming, Design
+description: |
   Play as goofy-looking cereal guys that want to fight one another for some reason. Made by 2 friends after watching Cinnamon Toast Crunch commercials.  
 
   Contributions (Unity Game Engine):  
