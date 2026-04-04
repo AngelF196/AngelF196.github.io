@@ -21,6 +21,6 @@ description: |
   Contributions (Godot Game Engine):  
   • Managed team during sprints to submit progress builds by weekly deadlines  
   • Designed all minigames and UI  
-  • Created final art assets for various minigames
-
+  • Created final art assets for various minigames  
+  [Play the game](https://ishaanm.itch.io/college-chef-beta)
 ---
