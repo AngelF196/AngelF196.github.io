@@ -12,6 +12,11 @@ img: CS_cover.png
 alt: image-alt
 project-date: March 2026
 client: Completed
-category: Design, Programming
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+category: |
+  Play as goofy-looking cereal guys that want to fight one another for some reason. Made by 2 friends after watching Cinnamon Toast Crunch commercials.  
+
+  Contributions (Unity Game Engine):  
+  • Singlehandedly implemented all game content  
+  • Designed and engineered player movement and attack systems  
+  • Used game architecture knowledge to facilitate game expansion to allow for increasing player numbers and stages with little changes in code
 ---
