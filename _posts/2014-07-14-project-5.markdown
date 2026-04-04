@@ -24,5 +24,6 @@ description: |
   • Completed the game’s development singlehandedly  
   • Utilized shader graphs, clipping planes, and other visual tools to create the 2.5-dimensional game environment  
   • Created a modular, highly expandable, enemy spawning system that automatically updates the game state using Unity events  
-  • Created all (but 5) art assets
+  • Created all (but 5) art assets  
+  [Play the game](https://prodigioussp.itch.io/speedy-spirits)
 ---
