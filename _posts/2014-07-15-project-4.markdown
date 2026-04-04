@@ -19,5 +19,6 @@ description: |
   Contributions (Unity Game Engine):  
   • Singlehandedly implemented all game content  
   • Designed and engineered player movement and attack systems  
-  • Used game architecture knowledge to facilitate game expansion to allow for increasing player numbers and stages with little changes in code
+  • Used game architecture knowledge to facilitate game expansion to allow for increasing player numbers and stages with little changes in code  
+  [Play the game](https://prodigioussp.itch.io/cereal-splat)
 ---
