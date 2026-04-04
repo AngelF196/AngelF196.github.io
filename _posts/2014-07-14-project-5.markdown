@@ -17,5 +17,12 @@ alt: image-alt
 project-date: Feb 2026
 client: Completed
 category: Design, Programming
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+description: |
+  Face up against a trio of ghosts in a seemingly endless looping hallway, flashlight batteries included for your survival. Made for UCI’s 48-hour ZotJam Winter        Quarter 2026.  
+
+  Contributions (Unity Game Engine):  
+  • Completed the game’s development singlehandedly  
+  • Utilized shader graphs, clipping planes, and other visual tools to create the 2.5-dimensional game environment  
+  • Created a modular, highly expandable, enemy spawning system that automatically updates the game state using Unity events  
+  • Created all (but 5) art assets
 ---
